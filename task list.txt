@@ -1,0 +1,6 @@
+* MEMBUAT BOOTSTRAP
+  -menambahkan file index.html
+  -menambahkan file asset web
+  -menambahkan file css
+  -menambahkan file js
+* MENAMBAHKAN DATABASE
